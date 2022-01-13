@@ -1,0 +1,6 @@
+sample\_module
+==============
+
+.. automodule:: pymetrius_output.sample_module
+   :members:
+   :undoc-members:

@@ -1,0 +1,11 @@
+sample\_package
+===============
+
+.. automodule:: pymetrius_output.sample_package
+   :members:
+   :undoc-members:
+
+.. toctree::
+   :glob:
+
+   sample_package/*
